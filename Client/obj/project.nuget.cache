@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdvYsE8nx0I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\chris\\OneDrive\\Desktop\\MyResource\\Client\\MyResource.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chris\\.nuget\\packages\\citizenfx.core.client\\1.0.26198\\citizenfx.core.client.1.0.26198.nupkg.sha512",
+    "C:\\Users\\chris\\.nuget\\packages\\citizenfx.framework.client\\0.2.3\\citizenfx.framework.client.0.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

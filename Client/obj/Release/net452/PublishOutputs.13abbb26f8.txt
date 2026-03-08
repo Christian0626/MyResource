@@ -1,0 +1,2 @@
+C:\FXServer\server\server-data\resources\[local]\MyResource\Client\bin\Release\net452\publish\MyResource.Client.net.dll
+C:\FXServer\server\server-data\resources\[local]\MyResource\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll

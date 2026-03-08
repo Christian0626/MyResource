@@ -1,0 +1,4 @@
+C:\FXServer\server\server-data\resources\[local]\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.net.dll
+C:\FXServer\server\server-data\resources\[local]\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.deps.json
+C:\FXServer\server\server-data\resources\[local]\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.net.pdb
+C:\FXServer\server\server-data\resources\[local]\MyResource\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll

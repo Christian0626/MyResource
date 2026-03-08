@@ -1,0 +1,4 @@
+C:\Users\chris\OneDrive\Desktop\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.net.dll
+C:\Users\chris\OneDrive\Desktop\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.deps.json
+C:\Users\chris\OneDrive\Desktop\MyResource\Server\bin\Release\netstandard2.0\publish\MyResource.Server.net.pdb
+C:\Users\chris\OneDrive\Desktop\MyResource\Server\bin\Release\netstandard2.0\publish\CitizenFX.Core.Server.dll

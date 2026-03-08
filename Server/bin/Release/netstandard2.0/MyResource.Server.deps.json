@@ -1,0 +1,42 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "MyResource.Server/1.0.0": {
+        "dependencies": {
+          "CitizenFX.Core.Server": "1.0.26389"
+        },
+        "runtime": {
+          "MyResource.Server.dll": {}
+        }
+      },
+      "CitizenFX.Core.Server/1.0.26389": {
+        "runtime": {
+          "lib/netstandard20/CitizenFX.Core.Server.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyResource.Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CitizenFX.Core.Server/1.0.26389": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-N0A9O0G8mBoFXW1uX9A4jvoc3DeSAptrdTCNGtlbAc2cr1NejgX8z82WXUv52++9+oxJhNbbN+zkxfZyzQFX9w==",
+      "path": "citizenfx.core.server/1.0.26389",
+      "hashPath": "citizenfx.core.server.1.0.26389.nupkg.sha512"
+    }
+  }
+}
