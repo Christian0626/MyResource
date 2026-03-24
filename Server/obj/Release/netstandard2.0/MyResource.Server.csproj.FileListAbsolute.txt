@@ -19,3 +19,4 @@ C:\Users\chris\OneDrive\Desktop\MyResource\Server\obj\Release\netstandard2.0\MyR
 C:\Users\chris\OneDrive\Desktop\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.csproj.CoreCompileInputs.cache
 C:\Users\chris\OneDrive\Desktop\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.net.dll
 C:\Users\chris\OneDrive\Desktop\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.net.pdb
+C:\Users\chris\OneDrive\Desktop\MyResource\Server\obj\Release\netstandard2.0\MyResource.Server.sourcelink.json

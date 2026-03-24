@@ -1,2 +1,3 @@
 C:\Users\chris\OneDrive\Desktop\MyResource\Client\bin\Release\net452\publish\MyResource.Client.net.dll
 C:\Users\chris\OneDrive\Desktop\MyResource\Client\bin\Release\net452\publish\CitizenFX.Core.Client.dll
+C:\Users\chris\OneDrive\Desktop\MyResource\Client\bin\Release\net452\publish\MenuAPI.dll

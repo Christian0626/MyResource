@@ -17,3 +17,5 @@ C:\Users\chris\OneDrive\Desktop\MyResource\Client\obj\Release\net452\MyResource.
 C:\Users\chris\OneDrive\Desktop\MyResource\Client\obj\Release\net452\MyResource.Client.csproj.CoreCompileInputs.cache
 C:\Users\chris\OneDrive\Desktop\MyResource\Client\obj\Release\net452\MyResour.4D91E1AE.Up2Date
 C:\Users\chris\OneDrive\Desktop\MyResource\Client\obj\Release\net452\MyResource.Client.net.dll
+C:\Users\chris\OneDrive\Desktop\MyResource\Client\obj\Release\net452\MyResource.Client.sourcelink.json
+C:\Users\chris\OneDrive\Desktop\MyResource\Client\bin\Release\net452\MenuAPI.dll
